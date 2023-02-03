@@ -1,0 +1,407 @@
+001	Sprigatito	0 0 0 0 0 0	Grass
+002	Floragato	0 0 0 0 0 0	Grass
+003	Meowscarada	0 0 0 0 0 0	Grass / Dark
+004	Fuecoco		0 0 0 0 0 0	Fire
+005	Crocalor	0 0 0 0 0 0	Fire
+006	Skeledirge	0 0 0 0 0 0	Fire / Ghost
+007	Quaxly		0 0 0 0 0 0	Water
+008	Quaxwell	0 0 0 0 0 0	Water
+009	Quaquaval	0 0 0 0 0 0	Water / Fighting
+010	Lechonk		0 0 0 0 0 0	Normal
+011	Oinkologne	0 0 0 0 0 0	Normal
+012	Tarountula	0 0 0 0 0 0	Bug
+013	Spidops		0 0 0 0 0 0	Bug
+014	Nymble		0 0 0 0 0 0	Bug
+015	Lokix		0 0 0 0 0 0	Bug / Dark
+016	Hoppip		0 0 0 0 0 0	Grass / Flying
+017	Skiploom	0 0 0 0 0 0	Grass / Flying
+018	Jumpluff	0 0 0 0 0 0	Grass / Flying
+019	Fletchling	0 0 0 0 0 0	Normal / Flying
+020	Fletchinder	0 0 0 0 0 0	Fire / Flying
+021	Talonflame	0 0 0 0 0 0	Fire / Flying
+022	Pawmi		0 0 0 0 0 0	Electric / Fighting
+023	Pawmo		0 0 0 0 0 0	Electric / Fighting
+024	Pawmot		0 0 0 0 0 0	Electric / Fighting
+025	Houndour	0 0 0 0 0 0	Dark / Fire
+026	Houndoom	0 0 0 0 0 0	Dark / Fire
+027	Yungoos		0 0 0 0 0 0	Normal
+028	Gumshoos	0 0 0 0 0 0	Normal
+029	Skwovet		0 0 0 0 0 0	Normal
+030	Greedent	0 0 0 0 0 0	Normal
+031	Sunkern		0 0 0 0 0 0	Grass
+032	Sunflora	0 0 0 0 0 0	Grass
+033	Kricketot	0 0 0 0 0 0	Bug
+034	Kricketune	0 0 0 0 0 0	Bug
+035	Scatterbug	0 0 0 0 0 0	Bug
+036	Spewpa		0 0 0 0 0 0	Bug
+037	Vivillon	0 0 0 0 0 0	Bug / Flying
+038	Combee		0 0 0 0 0 0	Bug / Flying
+039	Vespiquen	0 0 0 0 0 0	Bug / Flying
+040	Rookidee	0 0 0 0 0 0	Flying
+041	Corvisquire	0 0 0 0 0 0	Flying
+042	Corviknight	0 0 0 0 0 0	Flying / Steel
+043	Happiny		0 0 0 0 0 0	Normal
+044	Chansey		0 0 0 0 0 0	Normal
+045	Blissey		0 0 0 0 0 0	Normal
+046	Azurill		0 0 0 0 0 0	Normal / Fairy
+047	Marill		0 0 0 0 0 0	Water / Fairy
+048	Azumarill	0 0 0 0 0 0	Water / Fairy
+049	Surskit		0 0 0 0 0 0	Bug / Water
+050	Masquerain	0 0 0 0 0 0	Bug / Flying
+051	Buizel		0 0 0 0 0 0	Water
+052	Floatzel	0 0 0 0 0 0	Water
+053	Wooper		0 0 0 0 0 0	Poison / Ground
+054	Clodsire	0 0 0 0 0 0	Poison / Ground
+055	Psyduck		0 0 0 0 0 0	Water
+056	Golduck		0 0 0 0 0 0	Water
+057	Chewtle		0 0 0 0 0 0	Water
+058	Drednaw		0 0 0 0 0 0	Water / Rock
+059	Igglybuff	0 0 0 0 0 0	Normal / Fairy
+060	Jigglypuff	0 0 0 0 0 0	Normal / Fairy
+061	Wigglytuff	0 0 0 0 0 0	Normal / Fairy
+062	Ralts		0 0 0 0 0 0	Psychic / Fairy
+063	Kirlia		0 0 0 0 0 0	Psychic / Fairy
+064	Gardevoir	0 0 0 0 0 0	Psychic / Fairy
+065	Gallade		0 0 0 0 0 0	Psychic / Fight
+066	Drowzee		0 0 0 0 0 0	Psychic
+067	Hypno		0 0 0 0 0 0	Psychic
+068	Gastly		0 0 0 0 0 0	Ghost / Poison
+069	Haunter		0 0 0 0 0 0	Ghost / Poison
+070	Gengar		0 0 0 0 0 0	Ghost / Poison
+071	Tandemaus	0 0 0 0 0 0	Normal
+072	Maushold	0 0 0 0 0 0	Normal
+073	Pichu		0 0 0 0 0 0	Electric
+074	Pikachu		0 0 0 0 0 0	Electric
+075	Raichu		0 0 0 0 0 0	Electric
+076	Fidough		0 0 0 0 0 0	Fairy
+077	Dachsbun	0 0 0 0 0 0	Fairy
+078	Slaoth		0 0 0 0 0 0	Normal
+079	Vigoroth	0 0 0 0 0 0	Normal
+080	Slaking		0 0 0 0 0 0	Normal
+081	Bounsweet	0 0 0 0 0 0	Grass
+082	Steenee		0 0 0 0 0 0	Grass
+083	Tsareena	0 0 0 0 0 0	Grass
+084	Smoliv		0 0 0 0 0 0	Grass / Normal
+085	Dolliv		0 0 0 0 0 0	Grass / Normal
+086	Arboliva	0 0 0 0 0 0	Grass / Normal
+087	Bonsly		0 0 0 0 0 0	Rock
+088	Sudowoodo	0 0 0 0 0 0	Rock
+089	Rockruff	0 0 0 0 0 0	Rock
+090	Lycanroc	0 0 0 0 0 0	Rock
+091	Rolycoly	0 0 0 0 0 0	Rock
+092	Carkol		0 0 0 0 0 0	Rock
+093	Coalossal	0 0 0 0 0 0	Rock / Fire
+094	Shinx		0 0 0 0 0 0	Electric
+095	Luxio		0 0 0 0 0 0	Electric
+096	Luxray		0 0 0 0 0 0	Electric
+097	Starly		0 0 0 0 0 0	Normal / Flying
+098	Staravia	0 0 0 0 0 0	Normal / Flying
+099	Staraptor	0 0 0 0 0 0	Normal / Flying
+100	Ocricorio	0 0 0 0 0 0	Fire / Flying
+101	Mareep		0 0 0 0 0 0	Electric
+102	Flaaffy		0 0 0 0 0 0	Electric
+103	Ampharos	0 0 0 0 0 0	Electric
+104	Petilil		0 0 0 0 0 0	Grass
+105	Lilligant	0 0 0 0 0 0	Grass
+106	Shroomish	0 0 0 0 0 0	Grass
+107	Breloom		0 0 0 0 0 0	Grass / Fighting
+108	Applin		0 0 0 0 0 0	Grass / Dragon
+109	Flapple		0 0 0 0 0 0	Grass / Dragon
+110	Appletun	0 0 0 0 0 0	Grass / Dragon
+111	Spoink		0 0 0 0 0 0	Psychic
+112	Grumpig		0 0 0 0 0 0	Psychic
+113	Squawkabilly	0 0 0 0 0 0	Normal / Flying
+114	Misdreavus	0 0 0 0 0 0	Ghost
+115	Mismagius	0 0 0 0 0 0	Ghost
+116	Makuhita	0 0 0 0 0 0	Fighting
+117	Hariyama	0 0 0 0 0 0	Fighting
+118	Crabrawler	0 0 0 0 0 0	Fighting
+119	Crabominable	0 0 0 0 0 0	Fighting / Ice
+120	Saladit		0 0 0 0 0 0	Poison / Fire
+121	Salazzle	0 0 0 0 0 0	Poison / Fire
+122	Phanpy		0 0 0 0 0 0	Ground
+123	Donphan		0 0 0 0 0 0	Ground
+124	Cufant		0 0 0 0 0 0	Steel
+125	Copperajah	0 0 0 0 0 0	Steel
+126	Gible		0 0 0 0 0 0	Dragon / Ground
+127	Gabite		0 0 0 0 0 0	Dragon / Ground
+128	Garchomp	0 0 0 0 0 0	Dragon / Ground
+129	Nacli		0 0 0 0 0 0	Rock
+130	Naclstack	0 0 0 0 0 0	Rock
+131	Garganaci	0 0 0 0 0 0	Rock
+132	Wingull		0 0 0 0 0 0	Water / Flying
+133	Pelipper	0 0 0 0 0 0	Water / Flying
+134	Magikarp	0 0 0 0 0 0	Water
+135	Gyarados	0 0 0 0 0 0	Water / Flying
+136	Arrokuda	0 0 0 0 0 0	Water
+137	Barraskewda	0 0 0 0 0 0	Water
+138	Basculin	0 0 0 0 0 0	Water
+139	Gulpin		0 0 0 0 0 0	Poison
+140	Swalot		0 0 0 0 0 0	Poison
+141	Meowth		0 0 0 0 0 0	Normal
+142	Persian		0 0 0 0 0 0	Normal
+143	Drifloon	0 0 0 0 0 0	Ghost / Flying
+144	Drifblim	0 0 0 0 0 0	Ghost / Flying
+145	Flabebe		0 0 0 0 0 0	Fairy
+146	Floette		0 0 0 0 0 0	Fairy
+147	Florges		0 0 0 0 0 0	Fairy
+148	Diglett		0 0 0 0 0 0	Ground
+149	Dugtrio		0 0 0 0 0 0	Ground
+150	Torkoal		0 0 0 0 0 0	Fire
+151	Numel		0 0 0 0 0 0	Fire / Ground
+152	Camerupt	0 0 0 0 0 0	Fire / Ground
+153	Bronzor		0 0 0 0 0 0	Steel / Psychic
+154	Bronzong	0 0 0 0 0 0	Steel / Psychic
+155	Axew		0 0 0 0 0 0	Dragon
+156	Fraxure		0 0 0 0 0 0	Dragon
+157	Haxorus		0 0 0 0 0 0	Dragon
+158	Mankey		0 0 0 0 0 0	Fighting
+159	Primeape	0 0 0 0 0 0	Fighting
+160	Annihilape	0 0 0 0 0 0	Fighting / Ghost
+161	Meditite	0 0 0 0 0 0	Fighting / Psychic
+162	Medicham	0 0 0 0 0 0	Fighting / Psychic
+163	Riolu		0 0 0 0 0 0	Fighting
+164	Lucario		0 0 0 0 0 0	Fighting / Steel
+165	Charcadet	0 0 0 0 0 0	Fire
+166	Armarouge	0 0 0 0 0 0	Fire / Psychic
+167	Ceruledge	0 0 0 0 0 0	Fire / Ghost
+168	Barboach	0 0 0 0 0 0	Water / Ground
+169	Whiscash	0 0 0 0 0 0	Electric
+170	Tadbulb		0 0 0 0 0 0	Electric
+171	Bellibolt	0 0 0 0 0 0	Electric
+172	Goomy		0 0 0 0 0 0	Dragon
+173	Sliggoo		0 0 0 0 0 0	Dragon
+174	Goodra		0 0 0 0 0 0	Dragon
+175	Croagunk	0 0 0 0 0 0	Poison / Fighting
+176	Toxicroak	0 0 0 0 0 0	Poison / Fighting
+177	Wattrel		0 0 0 0 0 0	Electric / Flying
+178	Kilowattrel	0 0 0 0 0 0	Electric / Flying
+179	Eevee		0 0 0 0 0 0	Normal
+180	Vaporeon	0 0 0 0 0 0	Water
+181	Jolteon		0 0 0 0 0 0	Electric
+182	Flareon		0 0 0 0 0 0	Fire
+183	Espeion		0 0 0 0 0 0	Psychic
+184	Umbreon		0 0 0 0 0 0	Dark
+185	Leafeon		0 0 0 0 0 0	Grass
+186	Glaceon		0 0 0 0 0 0	Ice
+187	Sylveon		0 0 0 0 0 0	Fairy
+188	Dunsparce	0 0 0 0 0 0	Normal
+189	Dudunsparce	0 0 0 0 0 0	Normal
+190	Deerling	0 0 0 0 0 0	Normal / Grass
+191	Sawsbuck	0 0 0 0 0 0	Normal / Grass
+192	Girafirig	0 0 0 0 0 0	Normal / Psychic
+193	Farigaraf	0 0 0 0 0 0	Normal / Psychic
+194	Grimer		0 0 0 0 0 0	Poison
+195	Muk		0 0 0 0 0 0	Poison
+196	Maschiff	0 0 0 0 0 0	Dark
+197	Mabosstiff	0 0 0 0 0 0	Dark
+198	Toxel		0 0 0 0 0 0	Electric / Poison
+199	Toxtricity	0 0 0 0 0 0	Electric / Poison
+200	Dedenne		0 0 0 0 0 0	Electric / Fairy
+201	Pachirisu	0 0 0 0 0 0	Electric
+202	Shroodle	0 0 0 0 0 0	Poison / Normal
+203	Grafaiai	0 0 0 0 0 0	Poison / Normal
+204	Stantler	0 0 0 0 0 0	Normal
+205	Foongus		0 0 0 0 0 0	Grass / Poison
+206	Amoonguss	0 0 0 0 0 0	Grass / Poison
+207	Voltorb		0 0 0 0 0 0	Electric
+208	Electrode	0 0 0 0 0 0	Electric
+209	Magnemite	0 0 0 0 0 0	Electric / Steel
+210	Magneton	0 0 0 0 0 0	Electric / Steel
+211	Magnezone	0 0 0 0 0 0	Electric / Steel
+212	Ditto		0 0 0 0 0 0	Normal
+213	Growlithe	0 0 0 0 0 0	Fire
+214	Arcanine	0 0 0 0 0 0	Fire
+215	Teddiursa	0 0 0 0 0 0	Normal
+216	Ursaring	0 0 0 0 0 0	Normal
+217	Zangoose	0 0 0 0 0 0	Normal
+218	Seviper		0 0 0 0 0 0	Poison
+219	Swablu		0 0 0 0 0 0	Normal / Flying
+220	Altaria		0 0 0 0 0 0	Dragon / Flying
+221	Skiddo		0 0 0 0 0 0	Grass
+222	Gogoat		0 0 0 0 0 0	Grass
+223	Tauros		0 0 0 0 0 0	Fighting
+224	Litleo		0 0 0 0 0 0	Fire / Normal
+225	Pyroar		0 0 0 0 0 0	Fire / Normal
+226	Stunky		0 0 0 0 0 0	Poison / Dark
+227	Skuntank	0 0 0 0 0 0	Poison / Dark
+228	Zorua		0 0 0 0 0 0	Dark
+229	Zoroark		0 0 0 0 0 0	Dark 
+230	Sneasel		0 0 0 0 0 0	Dark / Ice
+231	Weavile		0 0 0 0 0 0	Dark / Ice
+232	Murkrow		0 0 0 0 0 0	Dark / Flying
+233	Honchkrow	0 0 0 0 0 0	Dark / Flying
+234	Gothita		0 0 0 0 0 0	Psychic
+235	Gothorita	0 0 0 0 0 0	Psychic
+236	Gothitelle	0 0 0 0 0 0	Psychic
+237	Sinistea	0 0 0 0 0 0	Ghost
+238	Polteageist	0 0 0 0 0 0	Ghost
+239	Mimikyu		0 0 0 0 0 0	Ghost / Fairy
+240	Klefki		0 0 0 0 0 0	Steel / Fairy
+241	Indeedee	0 0 0 0 0 0	Psychic / Normal
+242	Bramblin	0 0 0 0 0 0	Grass / Ghost
+243	Brambleghast	0 0 0 0 0 0	Grass / Ghost
+244	Toedscool	0 0 0 0 0 0	Ground / Grass
+245	Toedscruel	0 0 0 0 0 0	Ground / Grass
+246	Tropius		0 0 0 0 0 0	Grass / Flying
+247	Fomantis	0 0 0 0 0 0	Grass
+248	Lurantis	0 0 0 0 0 0	Grass
+249	Klawf		0 0 0 0 0 0	Rock
+250	Capsakid	0 0 0 0 0 0	Grass
+251	Scovillain	0 0 0 0 0 0	Grass / Fire
+252	Cacnea		0 0 0 0 0 0	Grass
+253	Cacturne	0 0 0 0 0 0	Grass / Dark
+254	Rellor		0 0 0 0 0 0	Bug
+255	Rabsca		0 0 0 0 0 0	Bug / Psychic
+256	Venonat		0 0 0 0 0 0	Bug / Poison
+257	Venomoth	0 0 0 0 0 0	Bug / Poison
+258	Pineco		0 0 0 0 0 0	Bug
+259	Forretress	0 0 0 0 0 0	Bug / Steel
+260	Scyther		0 0 0 0 0 0	Bug / Flying
+261	Scizor		0 0 0 0 0 0	Bug / Steel
+262	Heracross	0 0 0 0 0 0	Bug / Fight
+263	Flittle		0 0 0 0 0 0	Psychic
+264	Espathra	0 0 0 0 0 0	Psychic
+265	Hippopotas	0 0 0 0 0 0	Ground
+266	Hippowdon	0 0 0 0 0 0	Ground
+267	Scadile		0 0 0 0 0 0	Ground / Dark
+268	Krokorok	0 0 0 0 0 0	Ground / Dark
+269	Krookodile	0 0 0 0 0 0	Ground / Dark
+270	Silicobra	0 0 0 0 0 0	Ground
+271	Sandaconda	0 0 0 0 0 0	Ground
+272	Mudbray		0 0 0 0 0 0	Ground
+273	Mudsdale	0 0 0 0 0 0	Ground
+274	Larvesta	0 0 0 0 0 0	Bug / Fire
+275	Volcarona	0 0 0 0 0 0	Bug / Fire
+276	Bagon		0 0 0 0 0 0	Dragon
+277	Shelgon		0 0 0 0 0 0	Dragon
+278	Salamence	0 0 0 0 0 0	Dragon / Flying
+279	Tinkatink	0 0 0 0 0 0	Fairy / Steel
+280	Tinkatuff	0 0 0 0 0 0	Fairy / Steel
+281	Tinkaton	0 0 0 0 0 0	Fairy / Steel
+282	Hatenna		0 0 0 0 0 0	Psychic
+283	Hattrem		0 0 0 0 0 0	Psychic
+284	Hatterene	0 0 0 0 0 0	Psychic / Fairy
+285	Impidimp	0 0 0 0 0 0	Dark / Fairy
+286	Morgrem		0 0 0 0 0 0	Dark / Fairy
+287	Gimmsnarl	0 0 0 0 0 0	Dark / Fairy
+288	Wiglett		0 0 0 0 0 0	Water
+289	Wugtrio		0 0 0 0 0 0	Water
+290	Bombirdier	0 0 0 0 0 0	Flying / Dark
+291	Finizen		0 0 0 0 0 0	Water
+292	Palafin		0 0 0 0 0 0	Water
+293	Varoom		0 0 0 0 0 0	Steel / Poison
+294	Revaroom	0 0 0 0 0 0	Steel / Poison
+295	Cyclizar	0 0 0 0 0 0	Dragon / Normal
+296	Orthworm	0 0 0 0 0 0	Steel
+297	Sableye		0 0 0 0 0 0	Dark / Ghost
+298	Shuppet		0 0 0 0 0 0	Ghost
+299	Banette		0 0 0 0 0 0	Ghost
+300	Falinks		0 0 0 0 0 0	Fighting
+301	Hawlucha	0 0 0 0 0 0	Fighting / Flying
+302	Spiritomb	0 0 0 0 0 0	Ghost / Dark
+303	Noibat		0 0 0 0 0 0	Flying / Dragon
+304	Noivern		0 0 0 0 0 0	Flying / Dragon
+305	Dreepy		0 0 0 0 0 0	Dragon / Ghost
+306	Drakloak	0 0 0 0 0 0	Dragon / Ghost
+307	Dragapult	0 0 0 0 0 0	Dragon / Ghost
+308	Glimmet		0 0 0 0 0 0	Rock / Poison
+309	Glimmora	0 0 0 0 0 0	Rock / Poison
+310	Rotom		0 0 0 0 0 0	Electric / Ghost
+311	Greavard	0 0 0 0 0 0	Ghost
+312	Houndstone	0 0 0 0 0 0	Ghost
+313	Oranguru	0 0 0 0 0 0	Normal / Psychic
+314	Passimian	0 0 0 0 0 0	Fighting
+315	Komala		0 0 0 0 0 0	Normal
+316	Larvitar	0 0 0 0 0 0	Rock / Ground
+317	Pupitar		0 0 0 0 0 0	Rock / Ground
+318	Tyranitar	0 0 0 0 0 0	Rock / Ground
+319	Stonjourner	0 0 0 0 0 0	Rock
+320	Eiscue		0 0 0 0 0 0	Ice
+321	Pincurchin	0 0 0 0 0 0	Electric
+322	Sandygast	0 0 0 0 0 0	Ghost / Ground
+323	Palossand	0 0 0 0 0 0	Ghost / Ground
+324	Slowpoke	0 0 0 0 0 0	Water / Psychic
+325	Slowbro		0 0 0 0 0 0	Water / Psychic
+326	Slowking	0 0 0 0 0 0	Water / Psychic
+327	Shellos		0 0 0 0 0 0	Water
+328	Gastrodon	0 0 0 0 0 0	Water / Ground
+329	Shellder	0 0 0 0 0 0	Water
+330	Cloyster	0 0 0 0 0 0	Water / Ice
+331	Qwilfish	0 0 0 0 0 0	Water / Poison
+332	Luvdisc		0 0 0 0 0 0	Water
+333	Finneon		0 0 0 0 0 0	Water
+334	Lumineon	0 0 0 0 0 0	Water
+335	Bruxish		0 0 0 0 0 0	Water / Psychic
+336	Alomomola	0 0 0 0 0 0	Water
+337	Skrelp		0 0 0 0 0 0	Poison / Water
+338	Dragalge	0 0 0 0 0 0	Poison / Dragon
+339	Clauncher	0 0 0 0 0 0	Water
+340	Clawitzer	0 0 0 0 0 0	Water
+341	Tynamo		0 0 0 0 0 0	Electric
+342	Eelektrik	0 0 0 0 0 0	Electric
+343	Eelektross	0 0 0 0 0 0	Electric
+344	Mareanie	0 0 0 0 0 0	Poison / Water
+345	Toxapex		0 0 0 0 0 0	Poison / Water
+346	Flamigo		0 0 0 0 0 0	Flying / Fight
+347	Dratini		0 0 0 0 0 0	Dragon
+348	Dragonair	0 0 0 0 0 0	Dragon
+349	Dragonite	0 0 0 0 0 0	Dragon
+350	Snom		0 0 0 0 0 0	Ice / Bug
+351	Frosmoth	0 0 0 0 0 0	Ice / Bug
+352	Snover		0 0 0 0 0 0	Grass / Ice
+353	Abomasnow	0 0 0 0 0 0	Grass / Ice
+354	Delibird	0 0 0 0 0 0	Ice / Flying
+355	Cubchoo		0 0 0 0 0 0	Ice
+356	Beartic		0 0 0 0 0 0	Ice
+357	Snorunt		0 0 0 0 0 0	Ice
+358	Glalie		0 0 0 0 0 0	Ice
+359	Froslass	0 0 0 0 0 0	Ice / Ghost
+360	Cryogonal	0 0 0 0 0 0	Ice
+361	Cetoddle	0 0 0 0 0 0	Ice
+362	Cetitan		0 0 0 0 0 0	Ice
+363	Bergmite	0 0 0 0 0 0	Ice
+364	Avalugg		0 0 0 0 0 0	Ice
+365	Rufflet		0 0 0 0 0 0	Normal / Flying
+366	Braviary	0 0 0 0 0 0	Normal / Flying
+367	Pawniard	0 0 0 0 0 0	Dark / Steel
+368	Bisharp		0 0 0 0 0 0	Dark / Steel
+369	Kingambit	0 0 0 0 0 0	Dark / Steel
+370	Deino		0 0 0 0 0 0	Dark / Dragon
+371	Zweilous	0 0 0 0 0 0	Dark / Dragon
+372	Hydreigon	0 0 0 0 0 0	Dark / Dragon
+373	Veluza		0 0 0 0 0 0	Water / Psychic
+374	Dondozo		0 0 0 0 0 0	Water
+375	Tatsugiri	0 0 0 0 0 0	Dragon / Water
+376	Great Tusk	0 0 0 0 0 0	Ground / Fighting
+377	Scream Tail	0 0 0 0 0 0	Fairy / Psychic
+378	Brute Bonnet	0 0 0 0 0 0	Grass / Dark
+379	Flutter Mane	0 0 0 0 0 0	Ghost / Fairy
+380	Slither Wing	0 0 0 0 0 0	Bug / Fighting
+381	Sandy Shocks	0 0 0 0 0 0	Electric / Ground
+382	Iron Treads	0 0 0 0 0 0	Ground / Steel
+383	Iron Bundle	0 0 0 0 0 0	Ice / Water
+384	Iron Hands	0 0 0 0 0 0	Fighting / Electric
+385	Iron Jugulis	0 0 0 0 0 0	Dark / Flying
+386	Iron Moth	0 0 0 0 0 0	Fire / Poison
+387	Iron Thorns	0 0 0 0 0 0	Rock / Electric
+388	Frigibax	0 0 0 0 0 0	Dragon / Ice
+389	Arctibax	0 0 0 0 0 0	Dragon / Ice
+390	Baxcalibur	0 0 0 0 0 0	Dragon / Ice
+391	Gimmighoul	0 0 0 0 0 0	Ghost
+392	Gholdengo	0 0 0 0 0 0	Steel / Ghost
+393	Wo-Chien	0 0 0 0 0 0	Dark / Grass
+394	Chien-Pao	0 0 0 0 0 0	Dark / Ice
+395	Ting-Lu		0 0 0 0 0 0	Dark / Ground
+396	Chi-Yu		0 0 0 0 0 0	Dark / Fire
+397	Roaring Moon	0 0 0 0 0 0	Dragon / Dark
+398	Iron Valiant	0 0 0 0 0 0	Fairy / Fighting
+399	Koraidon	0 0 0 0 0 0	Fighting / Dragon
+400	Miraidon	0 0 0 0 0 0	Electric / Dragon
+000	Charmander	0 0 0 0 0 0	Fire
+000	Charmeleon	0 0 0 0 0 0	Fire
+000	Charizard	0 0 0 0 0 0	Fire / Flying
+000	Scorbunny	0 0 0 0 0 0	Fire
+000	Raboot		0 0 0 0 0 0	Fire
+000	Cinderace	0 0 0 0 0 0	Fire
+
